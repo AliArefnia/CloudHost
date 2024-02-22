@@ -464,6 +464,14 @@ button:hover {
   padding: 3rem;
 }
 
+.testimonial blockquote {
+  padding: 3rem;
+}
+
+.testimonial .media {
+  padding-top: 1rem;
+}
+
 .testimonialSection > img {
   width: 100%;
 }
